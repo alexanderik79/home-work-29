@@ -9,3 +9,6 @@ This project contains unit tests for two JavaScript functions, `ageClassificatio
 - `__tests__/`: Contains Jest tests:
   - `ageClassification.test.js`: Tests age classification for various ranges.
   - `weekFn.test.js`: Tests day of the week for valid and invalid inputs.
+
+## Run
+- npm run test
